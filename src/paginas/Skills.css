@@ -1,0 +1,28 @@
+.skills {
+  background-color: #f0f4fa;
+  min-height: 100vh;
+  padding: 60px 0;
+}
+
+.titulo-seccion {
+  font-size: 2.2rem;
+  color: #4b0082;
+  font-weight: bold;
+}
+
+.skill-card {
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+.skill-card .card-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #00bcd4;
+}
+.skill-card .card-text {
+  color: #606060;
+  font-size: 1.1rem;
+  white-space: pre-line;
+}
