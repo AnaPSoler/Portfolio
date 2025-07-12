@@ -1,0 +1,22 @@
+.home {
+  background-color: #f7f9fc;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 60px 0;
+}
+
+.titulo-home {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #4b0082;
+  margin-bottom: 20px;
+}
+
+.descripcion-home {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  color: #606060;
+  line-height: 1.6;
+}
