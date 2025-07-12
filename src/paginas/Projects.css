@@ -1,0 +1,37 @@
+.projects {
+  background-color: #ffffff;
+  min-height: 100vh;
+  padding: 60px 0;
+}
+
+.titulo-seccion {
+  font-size: 2.2rem;
+  color: #4b0082;
+  font-weight: bold;
+}
+
+.project-card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.project-card .card-title {
+  font-size: 1.6rem;
+  color: #00bcd4;
+  font-weight: 600;
+}
+
+.project-card .card-text {
+  font-size: 1.1rem;
+  color: #606060;
+}
+
+.project-links button {
+  margin-right: 10px;
+}
+
+.tech-stack {
+  font-size: 0.95rem;
+  color: #444;
+}
